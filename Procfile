@@ -1,0 +1,1 @@
+web: gunicorn ithinksodigital.wsgi --log-file -
